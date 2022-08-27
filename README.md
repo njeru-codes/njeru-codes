@@ -1,5 +1,6 @@
 # 💫 About Me: [![](https://visitcount.itsvg.in/api?id=njeru-codes&icon=9&color=4)](https://visitcount.itsvg.in)
-Predicting the future isn't magic,  It's Artificial Intelligence.<br>I am Machine learning engineer passionate about  to creating solutions 
+"Predicting the future isn't magic,  It's Artificial Intelligence".<br> 
+I am Machine learning engineer passionate about  to creating Ai solutions 
 
 
 ## 🌐 Socials:
