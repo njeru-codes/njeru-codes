@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me: [![](https://visitcount.itsvg.in/api?id=njeru-codes&icon=9&color=4)](https://visitcount.itsvg.in)
 Predicting the future isn't magic,  It's Artificial Intelligence.<br>I am Machine learning engineer passionate about  to creating solutions 
 
 
@@ -19,7 +19,6 @@ Predicting the future isn't magic,  It's Artificial Intelligence.<br>I am Machin
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=njeru-codes&icon=9&color=4)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/bernardnjerumtwaiti@gmail.com) 
