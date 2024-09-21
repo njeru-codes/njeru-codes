@@ -1,6 +1,11 @@
 # 💫 About Me: [![](https://visitcount.itsvg.in/api?id=njeru-codes&icon=9&color=4)](https://visitcount.itsvg.in)
-"Predicting the future isn't magic,  It's Artificial Intelligence".<br> 
-I am Machine learning engineer passionate about  to creating Ai solutions 
+
+"Security is not an add-on; it's a core component of all of our systems." Dan Geer <br/>
+
+Am a pasionate cybersecurity enthusiast dedicated to protecting systems and data from emerging threats. <br/>
+I’m constantly exploring new tools and techniques to stay ahead in the ever-evolving landscape of cybersecurity. <br/> <br/>
+
+I enjoy exploring the intricacies of cybersecurity by studying vulnerabilities and writing malware to understand how to better protect systems from threats. 
 
 
 ## 🌐 Socials:
@@ -11,8 +16,11 @@ I am Machine learning engineer passionate about  to creating Ai solutions
 ![](https://github-profile-trophy.vercel.app/?username=njeru-codes&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 
-  ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/bernardnjerumtwaiti@gmail.com) 
+## archiements and CVEs.
+-
 
+## Innovations & Experiments
+-
+-
  
   
