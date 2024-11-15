@@ -18,9 +18,6 @@ I enjoy exploring the intricacies of cybersecurity by studying vulnerabilities a
 
 ## archiements and CVEs.
 -
-
-## Innovations & Experiments
--
 -
  
   
