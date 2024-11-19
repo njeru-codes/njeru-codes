@@ -1,15 +1,42 @@
-# 💫 About Me: [![](https://visitcount.itsvg.in/api?id=njeru-codes&icon=9&color=4)](https://visitcount.itsvg.in)
+# Hello, I'm Njeru Mtwaiti
+Am a penetration tester dedicated to protecting systems and data from emerging threats. <br/>
+I’m constantly exploring new tools and techniques to stay ahead in the ever-evolving landscape of cybersecurity. 
 
-"Security is not an add-on; it's a core component of all of our systems." Dan Geer <br/>
+## socials
+[![](https://visitcount.itsvg.in/api?id=njeru-codes&icon=9&color=4)](https://visitcount.itsvg.in)
+<a href="https://www.linkedin.com/in/njerumtwaiti/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://facebook.com/bernardnjeru47"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+<a href="https://twiiter.com/bernardnjeru18"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
 
-Am a pasionate cybersecurity enthusiast dedicated to protecting systems and data from emerging threats. <br/>
-I’m constantly exploring new tools and techniques to stay ahead in the ever-evolving landscape of cybersecurity. <br/> <br/>
+## skills
+| Skill                                         | Associated Project         |
+|-----------------------------------------------|----------------------------|
+| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
+| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 
-I enjoy exploring the intricacies of cybersecurity by studying vulnerabilities and writing malware to understand how to better protect systems from threats. 
+
+## tools
+### Network
+<div>
+    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
+</div>
 
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/bernardnjeru47) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bernardnjeru) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/bernardnjeru18) 
+## certifications
+<div>
+<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
+</div>
+
+
+## projects
+- Detection Lab
+- SOC Automation Project
 
 
 ## 🏆 GitHub Trophies
