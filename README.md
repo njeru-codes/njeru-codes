@@ -39,6 +39,7 @@ I’m constantly exploring new tools and techniques to stay ahead in the ever-ev
 
 ## projects
 - Detection Lab
+- [PhoneBok Vault](https://github.com/njeru-codes/PhoneBook-Vault)
 - SOC Automation Project
 
 
