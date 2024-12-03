@@ -3,7 +3,7 @@
   <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github-pages&logoColor=white" />
 </a>
 
-Am a penetration tester dedicated to protecting systems and data from emerging threats. <br/>
+Am a **penetration tester** dedicated to protecting systems and data from emerging threats. <br/>
 I’m constantly exploring new tools and techniques to stay ahead in the ever-evolving landscape of cybersecurity. 
 
 ## socials
