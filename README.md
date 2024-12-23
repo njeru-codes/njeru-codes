@@ -29,7 +29,8 @@ I’m constantly exploring new tools and techniques to stay ahead in the ever-ev
 
 ## certifications
 <div>
-CISCO CEH
+  - CISCO CEH
+  - OSCP Pentest+
 </div>
 
 
