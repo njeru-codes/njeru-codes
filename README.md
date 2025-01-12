@@ -1,10 +1,11 @@
 # Hello, I'm Njeru Mtwaiti 
-<a href="https://njeru-mtwaiti.netlify.app">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github-pages&logoColor=white" />
-</a>
+I am a ***Security Researcher** dedicated protecting the **world** by enhancing digital security and safeguarding sensitive information.
 
-Am a **penetration tester** dedicated to protecting systems and data from emerging threats. <br/>
-I’m constantly exploring new tools and techniques to stay ahead in the ever-evolving landscape of cybersecurity. 
+My expertise includes:
+ - Conducting thorough **security assessments** and **penetration testing**
+ - Developing and implementing **security protocols** and **policies**
+ - Analyzing **emerging threats** and **trends** in the cybersecurity landscape
+ - **Collaborating** with teams  to share insights and develop effective security strategies and best practices.
 
 ## socials
 <a href="https://www.linkedin.com/in/njerumtwaiti/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
