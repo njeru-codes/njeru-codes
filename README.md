@@ -1,5 +1,5 @@
 # Hello, I'm Njeru Mtwaiti 
-I am a ***Security Researcher** dedicated protecting the **world** by enhancing digital security and safeguarding sensitive information.
+I am a **Security Researcher** dedicated protecting the **world** by enhancing digital security and safeguarding sensitive information.
 
 My expertise includes:
  - Conducting thorough **security assessments** and **penetration testing**
