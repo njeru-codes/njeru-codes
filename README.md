@@ -12,12 +12,8 @@ My expertise includes:
 <a href="https://twiiter.com/bernardnjeru18"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
 
 ## skills
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-
-
+- web apllication vulnerability assessments
+- network traffic analysis
 ## tools
 ### Network
 <div>
