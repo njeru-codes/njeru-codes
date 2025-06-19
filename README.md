@@ -19,3 +19,8 @@ My expertise includes:
 </div>
  
   
+## currently focused on
+I'm currently diving into Zabbix, exploring its architecture and functionality to uncover potential security vulnerabilities
+<div align="center">
+Open source tools power the internet — let’s help make them more secure!
+</div>
