@@ -1,26 +1,15 @@
 # Hello, I'm Njeru Mtwaiti 
-I am a **Security Researcher** dedicated protecting the **world** by enhancing digital security and safeguarding sensitive information.
+**Offensive Security Engineer** and **Penetration Tester** with expertise in **bug bounty research**, **vulnerability & malware research** and security assessments. <br/> I specialize in strengthening systems, implementing security protocols, and analyzing emerging threats.
 
-My expertise includes:
- - Conducting thorough **security assessments** and **penetration testing**
- - Developing and implementing **security protocols** and **policies**
- - Analyzing **emerging threats** and **trends** in the cybersecurity landscape
- - **Collaborating** with teams  to share insights and develop effective security strategies and best practices.
-
-
-
+<br/>
 
 ## github stats
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=njeru-codes&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
+<br/>
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app?username=chotixity&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
  
   
-## currently focused on
-I'm currently diving into Zabbix, exploring its architecture and functionality to uncover potential security vulnerabilities
-<div align="center">
-Open source tools power the internet — let’s help make them more secure!
-</div>
